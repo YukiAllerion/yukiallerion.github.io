@@ -1,0 +1,4 @@
+[submodule "yukiallerion.github.io"]
+	path = yukiallerion.github.io
+	url = https://github.com/yukiallerion/yukiallerion.github.io.git
+	branch = master
