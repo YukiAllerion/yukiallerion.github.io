@@ -1,0 +1,3 @@
+[submodule "SCNPE"]
+	path = SCNPE
+	url = https://github.com/YukiAllerion/SCNPE
